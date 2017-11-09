@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Learning a little more of JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalunMarvin/js-tdd-course.git"
+  },
+  "keywords": [
+    "tdd",
+    "js",
+    "es6"
+  ],
+  "author": "Salun Marvin <salunmarvin@gmail.com> (https://www.devmustard.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SalunMarvin/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/SalunMarvin/js-tdd-course#readme"
+}
